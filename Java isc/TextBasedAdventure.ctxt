@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextBasedAdventure
+comment1.params=
+comment1.target=void\ room2()
+comment2.params=
+comment2.target=void\ StartRoom()
+comment3.params=
+comment3.target=void\ combatskel()
+comment4.params=
+comment4.target=void\ combatzombie()
+comment5.params=
+comment5.target=void\ gameover()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ @param\ args\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ command\ line\ arguments\r\n\ @throws\ java.lang.InterruptedException\r\n
+numComments=7
